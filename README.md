@@ -2,6 +2,11 @@
 <h1>
     Hi, I am <b>Dharmendra</b>
     <a href="https://www.linkedin.com/in/dharmendra-patel-a459474a"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:dharmendra.patel26@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Email--_.svg?logo=gmail&style=social"
+        />
+      </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Dharmendra205111014.Dharmendra205111014">
 </h1>
 <p>
