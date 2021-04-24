@@ -1,31 +1,25 @@
-<h2>
-  <img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif" width="64" /> 
-  Hi, Visitor! 
-</h2>
-<h3> I'm <b>Dharmendra</b> </h3> 
-<p>A Softeare Developer who Love to explore the world of WEB, and solve challanging problems.</p>
-<br><br>
-
-<details open>
-  <summary> 
-    <b>My github stats</b>: 
-  </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Dharmendra205111014's Github Stars">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra205111014&line_height=24&show_icons=true&hide=stars" />
-  </a>
-</details>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dharmendra205111014.Dharmendra205111014"/>
-<!--
-**Dharmendra205111014/Dharmendra205111014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h1>
+      Hi, I am <b>Dharmendra</b>
+      <a href="https://www.linkedin.com/in/dharmendra-patel-a459474a"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn"></a>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Dharmendra205111014.Dharmendra205111014">
+    </h1>
+    <p>
+      A Software Developer who Love to explore the world of WEB, and solve
+      challanging problems.
+    </p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dharmendra205111014&amp;line_height=24&amp;show_icons=true&amp;hide=stars">
+    <div class="tech">
+      <h3>Technologoies I work on,</h3>
+    <h4>Languages And Framworks</h4>
+        <div><img src="https://img.shields.io/badge/Javascript-666?logo=javascript&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/HTML5-d83a7d?style=for-the-badge&amp;logo=html5&amp;color=black"> <img src="https://img.shields.io/badge/CSS-ggg?logo=css3&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Node%20JS-444400?logo=node.js&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Vue%20JS-gray?logo=vue.js&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Web%20Components-purple?logo=webcomponents.org&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/java-black?logo=java&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Spring%20boot-darkgreen?logo=spring&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/PHP-darkblue?logo=php&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Typescript-lightblue?logo=typescript&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/SCSS-darkred?logo=sass&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Buefy-whitesmoke?logo=buefy&amp;style=for-the-badge"> <img src="https://img.shields.io/badge/Bulma-gold?logo=bulma&amp;style=for-the-badge"> </div>
+      <h4>Databases</h4>
+        <div>Mysql Postgray Redis </div>
+      <h4>Server And Operations</h4>
+        <div>nginx weblogic Apache Docker kubernetes </div>
+      <h4>Editors</h4>
+        <div>Vscode Intellij Eclipse sublime </div>
+      <h4>Operating System</h4>
+        <div>Ubuntu Mac windows </div>
+      <h4>Business Domains</h4>
+        <div>Travel Banking </div>
+      </div>
