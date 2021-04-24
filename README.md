@@ -1,6 +1,6 @@
 
 <h1>
-    Hi, I am <b>Dharmendra</b>
+    Hi, I am <b><span style="color: green;">Dharmendra<span></b>
     <a href="https://www.linkedin.com/in/dharmendra-patel-a459474a"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn"></a>
 <a href="mailto:dharmendra.patel26@gmail.com">
         <img
